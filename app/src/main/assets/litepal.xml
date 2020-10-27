@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="pig_weather"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.pigweather.android.db.Province"/>
+        <mapping class="com.pigweather.android.db.City"/>
+        <mapping class="com.pigweather.android.db.County"/>
+    </list>
+</litepal>
